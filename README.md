@@ -8,7 +8,7 @@ Para utilizar este projeto, é preciso está instalado o Visual Studio Code e o 
 Depois do Vs Code e nodejs instalado, você pode fazer o clone:
 
 ```shell
-https://github.com/maelbandeira/AutomacaoCypress.git 
+https://github.com/maelbandeira/Automacao_com_Cypress.git)
 ```
 
  Dentro da pasta `AutomacaoCypress` já foi instalado e configurado o Cypress
