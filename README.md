@@ -1,7 +1,7 @@
-# Testes_Automatizados_Cypress
+# Testes Automatizados usando Cypress
 
 
- Este repositório faz parte dos meus estudos em automação de testes.
+ Este repositório faz parte dos meus estudos em automação de testes web.
 
 Para utilizar este projeto, é preciso está instalado o Visual Studio Code e o Nodejs em seu computador.
 
